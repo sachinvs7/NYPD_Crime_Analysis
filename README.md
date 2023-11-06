@@ -17,7 +17,7 @@
 3. Comlpaints:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Ground truth](/download.png "Screenshot") &emsp; 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Prediction](/download_p.png "Screenshot") &emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Prediction](/download_p.png "Screenshot") &emsp; 
 
 5. Summons: 
 Link to bar chart race: https://sites.google.com/view/sachinvs/project_nypd_crime_analysis
