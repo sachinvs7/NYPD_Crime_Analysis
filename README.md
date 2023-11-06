@@ -17,6 +17,7 @@
 3. Comlpaints:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Ground truth](/download.png "Screenshot") &emsp; 
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Prediction](/download_p.png "Screenshot") &emsp; 
 
 5. Summons: 
