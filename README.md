@@ -16,7 +16,8 @@
 ![LightGBM features](/lgbm_importances_shootings.jpg "Screenshot")
 3. Comlpaints:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Ground truth](/download.png "Screenshot") &emsp; ![Prediction](/download_p.png "Screenshot")
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Ground truth](/download.png "Screenshot") &emsp; 
+![Prediction](/download_p.png "Screenshot")
 
 5. Summons: 
 Link to bar chart race: https://sites.google.com/view/sachinvs/project_nypd_crime_analysis
