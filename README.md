@@ -14,7 +14,7 @@
 ![Folium Viz](/Capture_folium.PNG "Screenshot")
 2. Shooting incidents: 
 ![LightGBM features](/lgbm_importances_shootings.jpg "Screenshot")
-3. Comlpaints:
+3. Complaints:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Ground truth](/download.png "Screenshot") &emsp; 
 
